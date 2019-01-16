@@ -5,12 +5,12 @@
         {
             "title": "Project Based",
             "description": "Our curriculum emphasizes learning by doing, and we send our students home with projects they have built to show their friends and family.",
-            "icon": "whatwedo/project-based.svg"
+            "icon": "/whatwedo/project-based.svg"
         },
         {
             "title": "Workshops and Bootcamps",
             "description": "Our workshops introduce students to the world of Computer Science and Programming, and we also organize extended bootcamps where students leverage one or more programming languages to build projects.",
-            "icon": "whatwedo/workshops.svg"
+            "icon": "/whatwedo/workshops.svg"
         }
     ]
 }
