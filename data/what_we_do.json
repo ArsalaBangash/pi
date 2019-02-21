@@ -12,5 +12,6 @@
             "description": "Our workshops introduce students to the world of Computer Science and Programming, and we also organize extended bootcamps where students leverage one or more programming languages to build projects.",
             "icon": "/whatwedo/workshops.svg"
         }
-    ]
+    ],
+    "image": "/images/workshop.jpg"
 }
