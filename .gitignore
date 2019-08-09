@@ -1,1 +1,14 @@
+# Hugo gitignore file from https://github.com/gohugoio/hugo/blob/master/examples/blog/.gitignore
+
+# Hugo default output directory
+/public
+
+## OS Files
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# OSX
 .DS_Store
