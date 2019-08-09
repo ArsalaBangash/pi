@@ -1,4 +1,4 @@
-baseURL = "https://projectinclude.netlify.com/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Project Include"
 theme = "hugo-serif-theme"
